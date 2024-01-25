@@ -1,7 +1,7 @@
 package com.joincoded.bankbraches.branchDetails
 
 enum class Type {
-    XTM,
+    GO,
     ATM,
-    REGULARBRANCH
+    KFHAUTO
 }
